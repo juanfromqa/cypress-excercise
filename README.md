@@ -2,7 +2,7 @@
 
 This repository contains automated tests coded with Cypress.io to validate EasyKnock'calculator. 
 
-🖤  My very first project with Cypress  
+🖤    My very first project with Cypress  
 
 ## Contents
 
