@@ -1,7 +1,6 @@
 # Cypress excercise 
 
-This repository contains automated tests coded with Cypress.io, the purpose is to have fun and check its Pros and Cons
-
+This repository contains automated tests coded with Cypress.io to validate EasyKnock'calculator
 
 ## Contents
 
