@@ -1,6 +1,8 @@
 # Cypress excercise 
 
-This repository contains automated tests coded with Cypress.io to validate EasyKnock'calculator
+This repository contains automated tests coded with Cypress.io to validate EasyKnock'calculator. 
+
+🖤 My very first project with Cypress  
 
 ## Contents
 
