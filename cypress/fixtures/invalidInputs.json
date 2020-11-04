@@ -1,0 +1,34 @@
+[
+  {
+    "homeValue": -0,
+    "mortgageBalance": -1,
+    "otherLiens": -2,
+    "expectedAmount": -3,
+    "expectedHomeValue": -4,
+    "expectedOptionValue": -5
+  },
+  {
+    "homeValue": 0,
+    "mortgageBalance": 0,
+    "otherLiens": 0,
+    "expectedAmount": 0,
+    "expectedHomeValue": 0,
+    "expectedOptionValue": 0
+  },
+  {
+    "homeValue": "test",
+    "mortgageBalance": "test",
+    "otherLiens": "test",
+    "expectedAmount": "test",
+    "expectedHomeValue": "test",
+    "expectedOptionValue": "test"
+  },
+  {
+    "homeValue": " ",
+    "mortgageBalance": " ",
+    "otherLiens": " ",
+    "expectedAmount": " ",
+    "expectedHomeValue": " ",
+    "expectedOptionValue": " "
+  }
+]

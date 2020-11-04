@@ -1,0 +1,17 @@
+{
+  "name": "ezknk",
+  "version": "1.0.0",
+  "description": "Leaseback calculator",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open"
+  },
+  "author": "J. Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^1.6.0"
+  }
+}

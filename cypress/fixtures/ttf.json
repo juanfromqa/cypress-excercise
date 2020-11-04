@@ -1,0 +1,34 @@
+[
+    {
+        "homeValue": 1000,
+        "mortgageBalance": 100,
+        "otherLiens": 12,
+        "expectedAmount": 0,
+        "expectedHomeValue": 0,
+        "expectedOptionValue": 0
+      },
+      {
+        "homeValue": 100,
+        "mortgageBalance": 1,
+        "otherLiens": 0,
+        "expectedAmount": 0,
+        "expectedHomeValue": 0,
+        "expectedOptionValue": 0
+      },
+      {
+        "homeValue": 500,
+        "mortgageBalance": 1,
+        "otherLiens": 1,
+        "expectedAmount": 0,
+        "expectedHomeValue": 0,
+        "expectedOptionValue": 0
+      },
+      {
+        "homeValue": 7000000000,
+        "mortgageBalance": 10100000000,
+        "otherLiens": 50000000,
+        "expectedAmount": 0,
+        "expectedHomeValue": 0,
+        "expectedOptionValue": 0
+      }
+]
